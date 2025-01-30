@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡Hola, soy Saray! 👋</b></h1>
 
-
+![Mi banner](https://github.com/SarayDomenech/SarayDomenech/blob/main/BANNER_GITHUB.png)
 
 [![Contador de Visitas](https://komarev.com/ghpvc/?username=SarayDomenech&color=blue&style=flat)](https://github.com/SarayDomenech) 
 [![Seguidores](https://img.shields.io/github/followers/SarayDomenech?label=Seguidores&style=flat&color=black)](https://github.com/SarayDomenech)
